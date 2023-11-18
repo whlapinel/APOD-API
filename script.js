@@ -1,7 +1,7 @@
 "use strict";
 
 
-const api_key = "P2bJ7ZNARkw15xZTQx4ThbqF3WPD5RWdSs2ca8ET";
+const api_key = 'see local files'; // removed api key
 const baseUrl = `https://api.nasa.gov/planetary/apod?api_key=${api_key}`;
 
 const searchBtn = document.querySelector("#search-btn");
